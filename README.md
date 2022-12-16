@@ -1,5 +1,8 @@
-### Eai, sou João Victor Martelleto ![image](https://user-images.githubusercontent.com/105898099/208129629-824db3ae-ae64-416a-93f7-c426b448a067.png)
+### Eai, sou João Victor Martelleto !
+- 💼 No momento não estou trabalhando.
+- 📚 Estudo Ciências da Computação na Unipê
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitorMartelleto&show_icons=true&theme=dark)
 
 <!--
 
