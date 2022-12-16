@@ -1,8 +1,8 @@
 ### Eai, sou João Victor Martelleto !
 - 💼 No momento não estou trabalhando.
 - 📚 Estudo Ciências da Computação na Unipê
-
-
+</br>
+</br>
 <div align="center">
  <a href="https://github.com/JoaoVitorMartelleto">
  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorMartelleto&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
