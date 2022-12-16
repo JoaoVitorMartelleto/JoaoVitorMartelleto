@@ -2,7 +2,7 @@
 - 💼 No momento não estou trabalhando.
 - 📚 Estudo Ciências da Computação na Unipê
 
-![JoaoVitorMartelleto's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitorMartelleto&show_icons=true&theme=dark)
+![JoaoVitorMartelleto's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitorMartelleto&show_icons=true&theme=cobalt)
 
 <!--
 
