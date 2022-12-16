@@ -1,7 +1,7 @@
-### Hi there 👋
+### Eai, sou João Victor Martelleto ![image](https://user-images.githubusercontent.com/105898099/208129629-824db3ae-ae64-416a-93f7-c426b448a067.png)
+
 
 <!--
-**JoaoVitorMartelleto/JoaoVitorMartelleto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
