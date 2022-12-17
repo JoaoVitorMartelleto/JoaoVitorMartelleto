@@ -17,5 +17,6 @@
 </div>
  
 ##
-
-<a href="https://www.instagram.com/jaovitort/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+ 
+<a href="https://www.instagram.com/jaovitort/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+< a href="https://www.linkedin.com/in/jo%C3%A3o-victor-martelleto-de-paula-teixeira-6b3904220/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
