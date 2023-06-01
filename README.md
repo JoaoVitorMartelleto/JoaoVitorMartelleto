@@ -14,6 +14,8 @@
   <img align="center" alt="JV-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JV-Python"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JV-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  <img align="center" alt="JV-Java" heigth="30" width="40" src="https://www.flaticon.com/br/icone-gratis/java_5968282?term=java&page=1&position=3&origin=search&related_id=5968282" />
+ <img align="center" alt="JV-Java" heigth="30" width="40" src="https://www.flaticon.com/br/icone-gratis/letra-c_3665923?term=c&page=1&position=3&origin=search&related_id=3665923" />
 </div>
  
 ##
