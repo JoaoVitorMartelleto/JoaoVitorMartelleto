@@ -1,5 +1,5 @@
 ### Hi, i'm João Victor Martelleto !
-- 💼 I'm not working at the moment.
+- 💼 I'm working asan I'T intern at Korpus.
 - 📚 I study computer science at Unipê
 </br>
 </br>
